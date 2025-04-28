@@ -1,6 +1,6 @@
 print("Bienvenidx a la calculadora de compras")
 print("Este programa te ayudará a calcular el costo total de tu compra con descuento.")
-print("Por favor, ingresa correctamente cada uno de los datos pedido acontinuacion!")
+print("Por favor, ingresa correctamente cada uno de los datos pedido a aguacontinuacion!")
 nombre_producto = input("Ingresa el nombre del producto deseado: ")
 
 #Primeramente se muestra un mensaje de bienvenida y  se le explica a el usuario el propósito de la calculadora de compras.
